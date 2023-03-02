@@ -1,0 +1,11 @@
+.statistic__wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.statistic__text {
+    font-size: 18px;
+    font-weight: 500;
+}

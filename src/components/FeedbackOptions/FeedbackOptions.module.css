@@ -1,0 +1,14 @@
+
+
+.btn__wrap {
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 10px;
+}
+
+.btn__options {
+
+    padding: 5px;
+    border-radius: 5px;
+}
